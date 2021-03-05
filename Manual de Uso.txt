@@ -1,0 +1,6 @@
+OPCION 1: Instalacion
+Ingrese a la carpeta y ejecute el setup para instalar el programa
+
+OPCION 2: Ejecucion directa
+Ingrese a la carpeta "SimulacionNoviembre2019/bin/Debug/"
+y ejcute el ejecutable "SimulacionNoviembre2019"

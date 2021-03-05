@@ -1,0 +1,17 @@
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\SimulacionNovienbre2019.exe.config
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\SimulacionNovienbre2019.exe.manifest
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\SimulacionNovienbre2019.application
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\SimulacionNovienbre2019.exe
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\SimulacionNovienbre2019.pdb
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.Form1.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.Frm_Detalle.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.Properties.Resources.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.UC_Controls.UC_Azucar.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.UC_Controls.UC_Craps.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.UC_Controls.UC_DestinoDelPollo.resources
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.csproj.GenerateResource.Cache
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.exe.manifest
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.application
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.exe
+C:\Users\ALEX\Documents\Visual Studio 2015\Projects\SimulacionNovienbre2019\SimulacionNovienbre2019\obj\Release\SimulacionNovienbre2019.pdb
